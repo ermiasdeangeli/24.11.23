@@ -1,0 +1,177 @@
+.divbody {
+    width: 500px;
+    height: vh;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid black;
+}
+
+.section1 {
+    width: 500px;
+    height: 150px;
+    background-color: black;
+}
+
+.logos {
+    margin-left: 150px;
+    width: 200px;
+    margin-top: 25px;
+} 
+
+.section2 {
+    width: 500px;
+    height: fit-content;
+    background-image: url("C:\Users\deang\OneDrive\Documenti\Coding\Epicode\Week1\24.11.23\S1-L5\Esercizio\images\banner.jpg");
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(42, 157, 228);
+    margin-top: 50px;
+}
+
+.smetti {
+    text-align: center;
+    color: grey;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.partiamo {
+    color: white;
+    background-color:orange;
+    margin-left: 200px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.section3 {
+    width: 500px;
+    height: fit-content;
+    margin-top: 50px;
+}
+
+h5 {
+    color: rgb(42, 157, 228);
+    text-align: center;
+    font-size: 20px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+p {
+    text-align: center;
+    color: grey;
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.notebook {
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-left: 150px;
+    width: 200px;
+}
+
+.garantisce {
+    width: 500px;
+    height: 350px;
+    background-color: orangered;
+    margin-top: 50px;
+}
+
+h2 {
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    padding-top: 60px;
+    font-weight: bold;
+}
+
+#mesi {
+    color: white;
+    font-style: italic;
+}
+
+h3 {
+    color: white;
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 170px;
+}
+
+h6 {
+    color: white;
+    margin-left: 190px;
+    margin-top: 10px;
+
+}
+
+.divpc {
+    border: 1px solid grey;
+    width: 400px;
+    height: 400px;
+    margin-left: 50px;
+    margin-top: 70px;
+ }
+
+.foto1 {
+    width: 400px;
+}
+
+.divpc1 {
+    border: 1px solid grey;
+    width: 400px;
+    height: 400px;
+    margin-left: 50px;
+    margin-top: 70px;
+
+}
+
+.foto2 {
+width: 400px;
+    
+}
+
+.divpc2 {
+    border: 1px solid grey;
+    width: 400px;
+    height: 400px;
+    margin-left: 50px;
+    margin-top: 70px;
+}
+
+.foto3 {
+    width: 400px;
+}
+
+footer {
+    margin-top: 100px;
+    background-color: rgb(0, 151, 232);
+    width: 500px;
+    height: 400px;
+}
+
+.link {
+    margin-top: 50px;
+    margin-left: 30px;
+    text-align: center;
+}
+a {
+    color: white;
+    font-size: 25px;
+}
+
+hr { 
+    margin-top: 50px;
+    width: 400px;
+    margin-left: 50px;
+}
+
+.pixalbay {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
